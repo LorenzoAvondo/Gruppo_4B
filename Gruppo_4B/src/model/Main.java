@@ -9,7 +9,7 @@ public class Main {
 	}
 
 	private static String Riccardo() {
-		// TODO Auto-generated method stub
+		System.out.println("Ciao sono Riccardo Maldera");
 		
 	}
 
